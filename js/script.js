@@ -10,7 +10,7 @@ function myFirstApp(name, age) {
 		}
 	}	
 	showSkills();
-
+    console.log('ert');
 	function checkAge() {
 		if (age > 18) {
 				alert("Добро пожаловать!");
